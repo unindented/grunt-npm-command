@@ -6,7 +6,8 @@ module.exports = function (grunt) {
     'clean': {
       test: [
         'test/fixtures/underscore/node_modules',
-        'test/fixtures/lodash/node_modules'
+        'test/fixtures/lodash/node_modules',
+        'test/fixtures/error/npm-debug.log'
       ]
     },
 
