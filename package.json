@@ -1,0 +1,37 @@
+{
+  "name":        "grunt-npm-command",
+  "description": "Run npm commands (like install or update) from Grunt.",
+  "version":     "0.0.1",
+  "license":     "MIT",
+
+  "author": {
+    "name":  "Daniel Perez Alvarez",
+    "email": "unindented@gmail.com",
+    "url":   "http://unindented.org/"
+  },
+
+  "repository": {
+    "type": "git",
+    "url":  "git://github.com/unindented/grunt-npm-command.git"
+  },
+
+  "keywords": [
+    "gruntplugin",
+    "npm"
+  ],
+
+  "scripts": {
+    "test": "grunt test"
+  },
+
+  "devDependencies": {
+    "grunt":                  "^0.4.0",
+    "grunt-contrib-clean":    "^0.6.0",
+    "grunt-contrib-jshint":   "^0.11.2",
+    "grunt-contrib-nodeunit": "^0.4.1"
+  },
+
+  "peerDependencies": {
+    "grunt": "^0.4.0"
+  }
+}

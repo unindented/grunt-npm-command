@@ -1,0 +1,12 @@
+{
+  "name":    "grunt-npm-command-error-test",
+  "private": true,
+
+  "dependencies": {
+    "lodash": "error"
+  },
+
+  "devDependencies": {
+    "debug": "*"
+  }
+}

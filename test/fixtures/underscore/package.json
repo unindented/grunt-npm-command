@@ -1,0 +1,12 @@
+{
+  "name":    "grunt-npm-command-underscore-test",
+  "private": true,
+
+  "dependencies": {
+    "underscore": "*"
+  },
+
+  "devDependencies": {
+    "debug": "*"
+  }
+}

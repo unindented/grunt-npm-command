@@ -1,0 +1,12 @@
+{
+  "name":    "grunt-npm-command-lodash-test",
+  "private": true,
+
+  "dependencies": {
+    "lodash": "*"
+  },
+
+  "devDependencies": {
+    "debug": "*"
+  }
+}
