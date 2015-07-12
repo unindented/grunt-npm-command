@@ -48,18 +48,6 @@ Default: `''`
 
 Defines the working directory to run `npm <cmd> <args>`. By default it will be run in the current directory.
 
-#### options.stdout
-Type: `Boolean`
-Default: `true`
-
-Show `stdout` in the terminal.
-
-#### options.stderr
-Type: `Boolean`
-Default: `true`
-
-Show `stderr` in the terminal.
-
 #### options.failOnError
 Type: `Boolean`
 Default: `true`
