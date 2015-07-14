@@ -59,7 +59,7 @@ Fail the build if an error occurs while running the npm command.
 To run `npm install` on a subdirectory:
 
 ```js
-npm-command: {
+'npm-command': {
   foobar: {
     options: {
       cwd: 'foobar/'
@@ -71,7 +71,7 @@ npm-command: {
 To run `npm update --production` on multiple subdirectories:
 
 ```js
-npm-command: {
+'npm-command': {
   options: {
     cmd: 'update',
     args: ['--production']
