@@ -1,7 +1,7 @@
 {
   "name": "grunt-npm-command",
   "description": "Run npm commands (like install or update) from Grunt.",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "license": "MIT",
   "author": {
     "name": "Daniel Perez Alvarez",
